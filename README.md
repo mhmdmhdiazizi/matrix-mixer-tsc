@@ -154,8 +154,8 @@ azizi.mm@ut.ac.ir
 
 We gratefully acknowledge the developers of the following open-source code repositories, as significant portions of our codebase are built upon their foundational work:
 
-Time-Series-Library by THUML
+[Time-Series-Library](https://github.com/thuml/Time-Series-Library) by THUML
 
-PITS by Seunghan96
+[PITS](https://github.com/seunghan96/pits) by Seunghan96
 
 Their contributions have been invaluable to this research.
